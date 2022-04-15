@@ -4,7 +4,7 @@
 </br>
 
 
-- 👀 I’m interested in  Data Analytics| Data Science | Machine Learning | Deep learning.
+- 👀 I’m interested in  Data Analytics | Data Science | Machine Learning | Deep learning.
 - 📈 I’m currently learning Machine Learning.
 - 💼 I’m looking to collaborate on Data Driven Projects.
 - 📫 How to reach me:  www.linkedin.com/in/javokhir-khusanov.
